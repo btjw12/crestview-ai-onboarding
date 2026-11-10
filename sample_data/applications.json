@@ -1,0 +1,38 @@
+[
+  {
+    "item_id": "sample-001",
+    "client_name": "Harbourline Dental Partners LLP",
+    "application_id": "APP-1001",
+    "client_type": "Partnership",
+    "requested_services": "Corporate cash management, Retirement plan administration",
+    "estimated_aum": "$4,500,000",
+    "description": "Three-partner dental practice operating in Ohio since 2011. Funds originate from practice revenue and partner retirement contributions. Audited financial statements for the last three years attached. Partners are US citizens and residents."
+  },
+  {
+    "item_id": "sample-002",
+    "client_name": "Northwind Maritime Holdings Ltd",
+    "application_id": "APP-1002",
+    "client_type": "Corporate",
+    "requested_services": "Discretionary portfolio management, FX hedging, Trust services",
+    "estimated_aum": "$85,000,000",
+    "description": "Holding company registered in a secrecy jurisdiction. Ownership held through two nominee shareholders and a discretionary trust; ultimate beneficial owners not disclosed. Applicant requests expedited onboarding within 48 hours and asks that correspondence avoid naming the beneficiaries. Source of funds described only as 'shipping investments'."
+  },
+  {
+    "item_id": "sample-003",
+    "client_name": "Elena Marsh",
+    "application_id": "APP-1003",
+    "client_type": "Individual",
+    "requested_services": "Wealth planning, Equity portfolio, Estate planning, Philanthropic advisory, Tax-loss harvesting",
+    "estimated_aum": "$120,000,000",
+    "description": "Former technology founder; wealth derived from the 2022 acquisition of her software company. Requests consolidation of accounts currently held at four institutions."
+  },
+  {
+    "item_id": "sample-004",
+    "client_name": "Quill & Ember Coffee Co.",
+    "application_id": "",
+    "client_type": "Small Business",
+    "requested_services": "Business checking sweep",
+    "estimated_aum": "",
+    "description": "Coffee shop chain. Mostly cash sales."
+  }
+]

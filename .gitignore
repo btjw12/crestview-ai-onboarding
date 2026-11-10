@@ -1,0 +1,26 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Generated output
+output/*.json
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+#Google Archive Uploads
+credential_google.json
+token.json
+
+output/
