@@ -24,3 +24,8 @@ credential_google.json
 token.json
 
 output/
+# Local SQLite databases
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
